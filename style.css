@@ -1,0 +1,12 @@
+body
+{
+    background: rgb(58, 163, 180);
+    background: linear-gradient(90deg, rgba(58, 163, 180, 1) 0%, rgba(29, 48, 253, 1) 50%, rgba(127, 69, 252, 1) 100%);
+
+}
+
+.survey
+{
+    height: 100%;
+    padding-bottom: 400px;
+}
